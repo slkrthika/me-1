@@ -8,7 +8,7 @@ body {
   height: 100%;
   font-family: "Lora", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: white;
-  background-color: black;
+  background-color: blue;
 }
 html {
   width: 100%;
@@ -57,7 +57,7 @@ a:focus {
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
   text-transform: uppercase;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  background-color: black;
+  background-color: blue;
 }
 .navbar-custom .navbar-toggle {
   color: white;
@@ -125,7 +125,7 @@ a:focus {
   text-align: center;
   color: white;
   background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
-  background-color: black;
+  background-color: blue;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -266,7 +266,7 @@ a:focus {
 .btn-default:focus {
   border: 1px solid #42DCA3;
   outline: none;
-  color: black;
+  color: blue;
   background-color: #42DCA3;
 }
 ul.banner-social-buttons {
